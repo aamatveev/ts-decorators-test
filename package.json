@@ -4,7 +4,7 @@
   "description": "Sample project of Webpack+TS+Vue.js ",
   "main": "webpack.config.js",
   "scripts": {
-    "start": "webpack-dev-server --hot --inline --history-api-fallback",
+    "app": "webpack-dev-server --hot --inline --history-api-fallback",
     "server": "node ./server.js"
   },
   "repository": "https://github.com/StepanZharychev/vue-ts-webpack.git",
